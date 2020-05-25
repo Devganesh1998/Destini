@@ -1,0 +1,1 @@
+This Simple app is a user decision driven adventurous story game.
